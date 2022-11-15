@@ -3,7 +3,7 @@ require "ruby2d"
 set title: "SSsSsSssnake"
 
 set background: "navy"
-set fps_cap: 25
+set fps_cap: 10
 
 GRID_SIZE = 20
 GRID_WIDTH = Window.width / GRID_SIZE
